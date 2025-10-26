@@ -1,15 +1,4 @@
 {
-  "files.exclude": {
-    "keyboards/*": true,
-    "!keyboards/technicallyshaun": false,
-    "!keyboards/mechboards": false,
-    "!keyboards/crkbd": false,
-    "!keyboards/splitkb/aurora/corne": false,
-    "!keyboards/splitkb/halcyon/corne": false,
-    ".build": true,
-    "**/*.o": true,
-    "**/*.d": true
-  },
   "explorer.compactFolders": false,
   "explorer.sortOrder": "type"
 }
